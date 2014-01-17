@@ -1,0 +1,24 @@
+Getting Node Modules
+	> npm install
+
+
+
+Install brew 
+	> ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go/install)"
+
+
+Install mongoDB
+	> brew update
+	> brew install mongodb
+
+
+Start mongoDB
+	> mongod
+
+	
+
+Git Commands
+
+	> git add .
+	> git commit -m ""
+	> git push -f heroku
